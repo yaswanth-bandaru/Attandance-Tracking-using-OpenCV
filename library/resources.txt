@@ -1,0 +1,7 @@
+https://github.com/E-B-Manohar/Face-Detection-and-Recogition-TF-FN-OCV
+https://www.youtube.com/watch?v=i_MOwvhbLdI
+https://www.youtube.com/watch?v=L8RVU6v9zXA
+https://medium.com/clique-org/how-to-create-a-face-recognition-model-using-facenet-keras-fd65c0b092f1
+https://medium.com/@athul929/building-a-facial-recognition-system-with-facenet-b9c249c2388a
+https://www.linkedin.com/pulse/face-recognition-system-using-facenet-karthik-balakrishnan/
+https://www.kaggle.com/yhuan95/face-recognition-with-facenet

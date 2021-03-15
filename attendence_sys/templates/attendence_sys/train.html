@@ -1,0 +1,17 @@
+{% extends 'attendence_sys/main.html' %}
+
+{% block content %}
+<div class="container">
+   {% for message in messages %}
+       {% if message.tags == 'error' %}
+           <div class="alert alert-danger">
+               {{ message }}
+           </div>
+       {% else %}
+           <div class="alert alert-success">
+               {{ message }}
+           </div>
+       {% endif %}
+   {% endfor %}
+</div>
+{% endblock %}
